@@ -1,3 +1,3 @@
-# vba
-vba.net projects that i was forced to make. they vary from very bad to bad as i only had an hour or less per and im just not very good at programming
-every project uploaded here has a note (i think) saying what it does and how to make it work. i wouldnt recommend running any of these or copying any code written here. i mean you can if you want but like it probably wont be very good. they are also not named well and are just lyrics from the first song i thought of 
+# school stuff
+vba.net and python stuff that i was forced to make. ill add some shitty websites at some point soon. they vary from very bad to bad as i only had an hour or less per and im just not very good at programming
+every project uploaded here has a note (i think) saying what it does and how to make it work. i wouldnt recommend running any of these or copying any code written here. i mean you can if you want but like it probably wont be very good. they are also not named well and are just lyrics from the first song i thought of. if you get an error i probably wrote why in the comment at the top of the vb file. i also wrote a lot of random shit up there though.
