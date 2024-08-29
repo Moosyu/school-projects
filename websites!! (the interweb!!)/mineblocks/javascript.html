@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>john</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400..700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<h2 style="font-family: Ar One Sans;" id="big" onclick="bg()">blog?</h2>
+
+<img id="light" onclick="light()" title="yeah dude!" src="pic_bulbon.gif"> 
+
+<script>
+function bg() {
+  document.getElementById("big").style.textAlign = "center";
+  document.getElementById("big").style.color = "red";
+}
+
+function light() {
+  if (document.getElementById("light").src.includes('pic_bulbon.gif')) {
+    document.getElementById("light").src=('pic_bulboff.gif')
+  } else {
+    document.getElementById("light").src=('pic_bulbon.gif')
+  }
+}
+</script>
+
+
+
+</body>
+</html>
