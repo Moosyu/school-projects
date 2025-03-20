@@ -1,0 +1,8 @@
+K:\12IT1 2007\AS12789_Programming\timetable\timetable\bin\Debug\timetable.exe.config
+K:\12IT1 2007\AS12789_Programming\timetable\timetable\bin\Debug\timetable.exe
+K:\12IT1 2007\AS12789_Programming\timetable\timetable\bin\Debug\timetable.pdb
+K:\12IT1 2007\AS12789_Programming\timetable\timetable\obj\Debug\timetable.csproj.AssemblyReference.cache
+K:\12IT1 2007\AS12789_Programming\timetable\timetable\obj\Debug\timetable.csproj.SuggestedBindingRedirects.cache
+K:\12IT1 2007\AS12789_Programming\timetable\timetable\obj\Debug\timetable.csproj.CoreCompileInputs.cache
+K:\12IT1 2007\AS12789_Programming\timetable\timetable\obj\Debug\timetable.exe
+K:\12IT1 2007\AS12789_Programming\timetable\timetable\obj\Debug\timetable.pdb
