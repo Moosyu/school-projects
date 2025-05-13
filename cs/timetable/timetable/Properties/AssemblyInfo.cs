@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("timetable")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hamilton Boys High School")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("timetable")]
-[assembly: AssemblyCopyright("Copyright © Hamilton Boys High School 2025")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

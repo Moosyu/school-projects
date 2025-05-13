@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("primenumbers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hamilton Boys High School")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("primenumbers")]
-[assembly: AssemblyCopyright("Copyright © Hamilton Boys High School 2025")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -34,6 +34,8 @@
             this.buttonSubmit = new System.Windows.Forms.Button();
             this.buttonBegin = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.buttonNF = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBoxInput
@@ -53,12 +55,14 @@
             // 
             // buttonSubmit
             // 
-            this.buttonSubmit.Location = new System.Drawing.Point(224, 36);
+            this.buttonSubmit.Enabled = false;
+            this.buttonSubmit.Location = new System.Drawing.Point(118, 37);
             this.buttonSubmit.Name = "buttonSubmit";
-            this.buttonSubmit.Size = new System.Drawing.Size(75, 20);
+            this.buttonSubmit.Size = new System.Drawing.Size(100, 20);
             this.buttonSubmit.TabIndex = 2;
             this.buttonSubmit.Text = "&Submit";
             this.buttonSubmit.UseVisualStyleBackColor = true;
+            this.buttonSubmit.Visible = false;
             this.buttonSubmit.Click += new System.EventHandler(this.buttonSubmit_Click);
             // 
             // buttonBegin
@@ -73,13 +77,36 @@
             // 
             // timer1
             // 
+            this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // buttonNF
+            // 
+            this.buttonNF.Enabled = false;
+            this.buttonNF.Location = new System.Drawing.Point(12, 8);
+            this.buttonNF.Name = "buttonNF";
+            this.buttonNF.Size = new System.Drawing.Size(776, 23);
+            this.buttonNF.TabIndex = 4;
+            this.buttonNF.UseVisualStyleBackColor = true;
+            this.buttonNF.Visible = false;
+            this.buttonNF.Click += new System.EventHandler(this.buttonNF_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 60);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(47, 13);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "Score: 0";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.buttonNF);
             this.Controls.Add(this.buttonBegin);
             this.Controls.Add(this.buttonSubmit);
             this.Controls.Add(this.textBoxWord);
@@ -98,6 +125,8 @@
         private System.Windows.Forms.Button buttonSubmit;
         private System.Windows.Forms.Button buttonBegin;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button buttonNF;
+        private System.Windows.Forms.Label label1;
     }
 }
 

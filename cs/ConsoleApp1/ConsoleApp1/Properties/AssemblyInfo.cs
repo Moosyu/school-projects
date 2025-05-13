@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ConsoleApp1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hamilton Boys High School")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ConsoleApp1")]
-[assembly: AssemblyCopyright("Copyright © Hamilton Boys High School 2025")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

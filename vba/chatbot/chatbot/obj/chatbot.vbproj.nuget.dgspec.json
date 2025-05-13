@@ -10,11 +10,11 @@
         "projectUniqueName": "K:\\11IA 2014\\consolevb\\chatbot\\chatbot\\chatbot.vbproj",
         "projectName": "chatbot",
         "projectPath": "K:\\11IA 2014\\consolevb\\chatbot\\chatbot\\chatbot.vbproj",
-        "packagesPath": "C:\\Users\\2vwilkin\\.nuget\\packages\\",
+        "packagesPath": "",
         "outputPath": "K:\\11IA 2014\\consolevb\\chatbot\\chatbot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\2vwilkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

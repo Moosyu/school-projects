@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("FizzBuzz")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Hamilton Boys High School")>
+<Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("FizzBuzz")>
-<Assembly: AssemblyCopyright("Copyright © Hamilton Boys High School 2024")>
+<Assembly: AssemblyCopyright("")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
